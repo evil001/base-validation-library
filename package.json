@@ -1,6 +1,6 @@
 {
   "name": "base-validation-library",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,8 @@
   "dependencies": {
     "aws-cdk-lib": "^2.132.0",
     "bitcore-lib": "^10.0.28",
+    "mysql2": "^3.9.2",
+    "req-code-generator": "^1.0.2",
     "validation": "^0.0.1",
     "validator": "^13.11.0"
   }

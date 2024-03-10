@@ -18,6 +18,7 @@
   "author": "evil",
   "license": "ISC",
   "dependencies": {
+    "aws-cdk-lib": "^2.132.0",
     "bitcore-lib": "^10.0.28",
     "validation": "^0.0.1",
     "validator": "^13.11.0"

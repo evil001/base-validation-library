@@ -1,6 +1,6 @@
 # base-validation-library
 
-A simple Node.js module to validate emails and phone numbers.
+crypto node script 
 
 ## Installation
 
@@ -8,3 +8,7 @@ Use npm to install the base-validation-library:
 
 ```bash
 npm install base-validation-library
+
+### Git clone:
+
+https://github.com/evil001/base-validation-library.git

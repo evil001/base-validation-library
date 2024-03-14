@@ -1,7 +1,7 @@
 const fetch = require('node-fetch');
 const ethers = require('ethers');
 const lodash = require('lodash')
-
+//lava call back
 async function main(addresses) {
     const rpcUrls = [
         "https://eth1.lava.build/lava-referer-d8fbfd38-cde3-42da-8c9d-c53fac3d41db/",
